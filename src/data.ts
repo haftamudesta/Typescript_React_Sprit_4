@@ -1,0 +1,49 @@
+import { ImageGallery } from "./Types/Global.Types";
+
+export const initialDataGallery:ImageGallery[]=[
+        {
+                id:'1',
+                slug:"images/image_1.jpeg",
+                isSelected:false,
+        },
+        {
+                id:'2',
+                slug:"images/image_2.jpeg",
+                isSelected:false,
+        },
+        {
+                id:'3',
+                slug:"images/image_3.jpeg",
+                isSelected:false,
+        },
+        {
+                id:'4',
+                slug:"images/image_4.jpeg",
+                isSelected:false,
+        },
+        {
+                id:'5',
+                slug:"images/image_5.jpeg",
+                isSelected:false,
+        },
+        {
+                id:'6',
+                slug:"images/image_6.jpeg",
+                isSelected:false,
+        },
+        {
+                id:'7',
+                slug:"images/image_7.jpeg",
+                isSelected:false,
+        },
+        {
+                id:'8',
+                slug:"images/image_8.png",
+                isSelected:false,
+        },
+        {
+                id:'9',
+                slug:"images/image_9.png",
+                isSelected:false,
+        },
+]
